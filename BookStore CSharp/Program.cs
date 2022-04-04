@@ -28,7 +28,7 @@ Console.WriteLine("——— IL LIBRO DI OGGI: " +title+" di " +printAuthor(auth
     "\nISBN: " + ISBN +
     "\nNumero delle pagine: " + nPages +"pagine" +
     "\nPeso del libro: "+ weight + "kg" +
-    "\nDimensioni del libro: " + widht + "cm x"+ height + "cm x" + depth +" cm" +
+    "\nDimensioni del libro: " + widht + "cm x "+ height + "cm x " + depth +" cm" +
     "\nInformazioni Amazon: " +
     "\nNumero di recensioni: " + nReviews+ " recensioni" +
     "\nValutazione media: " + averageRating + " stelline" +
